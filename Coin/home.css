@@ -1,0 +1,31 @@
+/* home.css */
+
+.full-screen-container {
+    
+   
+    
+    
+   
+  }
+  
+  .nav-container {
+    
+    
+    
+    /* Your styles for the navigation bar */
+  }
+  
+  
+  
+  .button-container {
+    text-align: center;
+    margin-top: 20px; /* Adjust as needed */
+  }
+  
+  .button-container button {
+    /* Your button styles */
+    box-sizing: border-box;
+    box-shadow: inset;
+  }
+  
+ 
